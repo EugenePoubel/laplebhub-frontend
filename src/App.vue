@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <header class="sticky top-0 z-50 w-full border-b border-gray-200 bg-white/80 backdrop-blur-md dark:bg-gray-950/80 dark:border-gray-800">
       <nav class="mx-auto flex max-w-7xl items-center justify-between p-4 px-6">
         
-        <RouterLink class="text-xl font-bold tracking-tight text-blue-600 dark:text-blue-500 hover:text-blue-700 transition-colors" to="/">
+        <RouterLink class="text-xl font-bold tracking-tight text-blue-600 dark:text-blue-500 hover:text-blue-700 transition-colors" to="/dashboard">
           LaPlebHub
         </RouterLink>
         
